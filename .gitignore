@@ -1,2 +1,4 @@
 backups/
 .env
+.last-firmware
+autoupdate.log
